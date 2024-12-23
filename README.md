@@ -1,0 +1,1 @@
+This repository contains an example of a common ActionScript 3 error: implicit type coercion. The error occurs when a variable of type String is used in a context where a Number is expected without explicit type conversion.  The solution demonstrates how to correctly handle type conversion using Number() function.
